@@ -104,7 +104,7 @@ GrocerEase/
 
 ## 🎥 Demo Video
 
-
+[Click to watch demo](https://github.com/Hasti-gadara/GrocerEase/blob/main/grocery_app_record.mp4)
 
 ---
 
